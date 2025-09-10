@@ -46,10 +46,10 @@
   Deep learning app to classify potato leaf diseases using CNN.
   
   
-  -🤖  **[AI-Powered Scraper Bot](https://github.com/Gauravmangate27/AI-Powered-Scraper-Bot)**  
+ -🤖 **[AI-Powered Scraper Bot](https://github.com/Gauravmangate27/AI-Powered-Scraper-Bot)**  
    An intelligent web scraping system that integrates **LLMs (GPT, AWS Bedrock)** to transform raw, unstructured content into clean and structured insights. 
 
-  - ✂️ **[Text_Summarization](https://github.com/Gauravmangate27/Text_Summarization)**  
+ -✂️ **[Text_Summarization](https://github.com/Gauravmangate27/Text_Summarization)**  
   NLP project that generates concise summaries from long documents using **extractive & abstractive methods**
 
 
