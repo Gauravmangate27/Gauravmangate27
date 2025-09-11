@@ -94,7 +94,7 @@
 
 <p align="center">
   <!-- Snake contribution graph -->
-  <img src="https://github.com/Gauravmangate27/Gauravmangate27/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/Gauravmangate27/Gauravmangate27"/>
 </p>
 
 ---
