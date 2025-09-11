@@ -92,11 +92,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F75C7E&center=true&vCenter=true&width=600&lines=AI+%26+ML+Developer;Deep+Learning+Practitioner;Cloud+%7C+Web+Dev+Enthusiast;Always+Learning+New+Things"/>
 </p>
 
-<p align="center">
-  <!-- Snake contribution graph -->
-  <img src="https://github.com/Gauravmangate27/Gauravmangate27"/>
-</p>
-
 ---
 
 ### 📫 Connect with Me  
