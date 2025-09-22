@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Mangate</h1>
-<h3 align="center">Data Scientist | AI/ML Enthusiast | Cloud Explorer</h3>
+<h3 align="center">Data Scientist | AI/ML Enthusiast | AI Automation |Cloud Explorer</h3>
 
 ---
 
@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src ="https://img.shields.io/badge/N8N-FF6F00?style=for-the-badge&logo=N8NlogoColor=white"/>
   
   <!-- Web Dev -->
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
