@@ -41,6 +41,8 @@
 
 ### 📌 Featured Projects  
 🚀 Here are some of my impactful projects:  
+-  🤖 **[SmartChain_Orchestrator](https://github.com/Gauravmangate27/SmartChain_Orchestrator)**  
+ Automatically fetches emails every 1 minute 📎 Reads CSV attachments 🧹 Parses, cleans, and validates the data 📦 Saves it to PostgreSQL (Supabase) 🧠 Uses Quadratic AI to generate insights from the data with natural language prompts 📧 Sends out automated insight reports via email — every minute!
 
 - 🥔 **[Potato Disease Classification](https://github.com/Gauravmangate27/Potato-disease-classification)**  
   Deep learning app to classify potato leaf diseases using CNN.  
