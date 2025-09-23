@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Mangate</h1>
-<h3 align="center">Data Scientist | AI/ML Enthusiast | AI Automation |Cloud Explorer</h3>
+<h3 align="center">Data Scientist | AI/ML Enthusiast | AI Automation | Cloud Explorer</h3>
 
 ---
 
