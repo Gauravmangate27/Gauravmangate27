@@ -15,6 +15,19 @@
   
 ---
 
+### 🧠 AI/ML Domain Expertise (Out of 10)
+<p align="center">
+  <img src="https://img.shields.io/badge/Generative_AI_%26_LLMs-9%2F10-F75C7E?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Deep_Learning_(CNN/ResNet)-8.5%2F10-F75C7E?style=for-the-badge&logo=pytorch" />
+  <img src="https://img.shields.io/badge/Computer_Vision-8%2F10-F75C7E?style=for-the-badge&logo=opencv" />
+  <br>
+  <img src="https://img.shields.io/badge/Natural_Language_Processing-8.5%2F10-3776AB?style=for-the-badge&logo=huggingface" />
+  <img src="https://img.shields.io/badge/Machine_Learning-9%2F10-3776AB?style=for-the-badge&logo=scikitlearn" />
+  <img src="https://img.shields.io/badge/RAG_%26_Vector_Databases-8%2F10-3776AB?style=for-the-badge&logo=pinecone" />
+</p>
+
+---
+
 ### 🔧 Tools & Technologies  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -39,17 +52,6 @@
 
 ---
 
-### 🧠 AI/ML Domain Expertise (Scale 1-10)  
-<p align="center">
-  <img src="https://skill-bars.vercel.app/api/skillbar?name=Generative+AI+/+LLMs&level=95&color=F75C7E&sideSpacing=0" alt="Generative AI"/>
-  <img src="https://skill-bars.vercel.app/api/skillbar?name=Deep+Learning&level=90&color=F75C7E&sideSpacing=0" alt="Deep Learning"/>
-  <img src="https://skill-bars.vercel.app/api/skillbar?name=NLP&level=85&color=F75C7E&sideSpacing=0" alt="NLP"/>
-  <img src="https://skill-bars.vercel.app/api/skillbar?name=Computer+Vision&level=80&color=F75C7E&sideSpacing=0" alt="Computer Vision"/>
-  <img src="https://skill-bars.vercel.app/api/skillbar?name=Cloud+AI+(AWS/GCP)&level=85&color=F75C7E&sideSpacing=0" alt="Cloud AI"/>
-</p>
-
----
-
 ### 📌 Featured Projects  
 🚀 Here are some of my impactful projects:  
 -  🤖 **[SmartChain_Orchestrator](https://github.com/Gauravmangate27/SmartChain_Orchestrator)** Automatically fetches emails every 1 minute 📎 Reads CSV attachments 🧹 Parses, cleans, and validates the data 📦 Saves it to PostgreSQL (Supabase) 🧠 Uses Quadratic AI to generate insights from the data with natural language prompts 📧 Sends out automated insight reports via email — every minute!
@@ -67,10 +69,6 @@
 - 🩺 **[Medical Chatbot](https://github.com/Gauravmangate27/Medical_ChatBot)** RAG-based chatbot using **LangChain + Pinecone** with PDF ingestion.  
 
 - 📊 **[IPL Win Probability Prediction](https://github.com/Gauravmangate27/IPL_Win_Probability_Prediction)** Predicts IPL match outcomes using historical + real-time features.  
-
-- 📖 **[Book Recommendation System](https://github.com/Gauravmangate27/Book_recommendation_gs)** Suggests books using ML + NLP with a web interface.  
-
-- 🌍 **[Air Quality Monitoring (IoT)](https://github.com/Gauravmangate27/air-quality-monitoring)** ESP32 + MQ132 + Blynk project for real-time air quality tracking.  
 
 ---
 
@@ -91,17 +89,8 @@
 
 ### 📫 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/gauravmangate/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:gauravmangate27@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Gauravmangate27">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/gauravmangate/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:gauravmangate27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Gauravmangate27"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGauravmangate27%2Flinkedin-click-tracker&count_bg=%23F75C7E&title_bg=%23555555&icon=linkedin.svg&icon_color=%23E7E7E7&title=LinkedIn+Visitors&edge_flat=false" alt="LinkedIn Views"/>
-</p>
