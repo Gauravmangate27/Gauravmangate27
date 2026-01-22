@@ -39,6 +39,17 @@
 
 ---
 
+### 🧠 AI/ML Domain Expertise (Scale 1-10)  
+<p align="center">
+  <img src="https://skill-bars.vercel.app/api/skillbar?name=Generative+AI+/+LLMs&level=95&color=F75C7E&sideSpacing=0" alt="Generative AI"/>
+  <img src="https://skill-bars.vercel.app/api/skillbar?name=Deep+Learning&level=90&color=F75C7E&sideSpacing=0" alt="Deep Learning"/>
+  <img src="https://skill-bars.vercel.app/api/skillbar?name=NLP&level=85&color=F75C7E&sideSpacing=0" alt="NLP"/>
+  <img src="https://skill-bars.vercel.app/api/skillbar?name=Computer+Vision&level=80&color=F75C7E&sideSpacing=0" alt="Computer Vision"/>
+  <img src="https://skill-bars.vercel.app/api/skillbar?name=Cloud+AI+(AWS/GCP)&level=85&color=F75C7E&sideSpacing=0" alt="Cloud AI"/>
+</p>
+
+---
+
 ### 📌 Featured Projects  
 🚀 Here are some of my impactful projects:  
 -  🤖 **[SmartChain_Orchestrator](https://github.com/Gauravmangate27/SmartChain_Orchestrator)** Automatically fetches emails every 1 minute 📎 Reads CSV attachments 🧹 Parses, cleans, and validates the data 📦 Saves it to PostgreSQL (Supabase) 🧠 Uses Quadratic AI to generate insights from the data with natural language prompts 📧 Sends out automated insight reports via email — every minute!
@@ -71,13 +82,6 @@
 
 ---
 
-### 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gauravmangate27&theme=radical&margin-w=15&margin-h=15"/>
-</p>
-
----
-
 ### ✨ Fun Animations  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F75C7E&center=true&vCenter=true&width=600&lines=AI+%26+ML+Developer;Deep+Learning+Practitioner;Cloud+%7C+Web+Dev+Enthusiast;Always+Learning+New+Things"/>
@@ -99,5 +103,5 @@
 </p>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGauravmangate27%2Flinkedin-click-tracker&count_bg=%23F75C7E&title_bg=%23555555&icon=linkedin.svg&icon_color=%23E7E7E7&title=LinkedIn+Clicks&edge_flat=false" alt="LinkedIn Views"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGauravmangate27%2Flinkedin-click-tracker&count_bg=%23F75C7E&title_bg=%23555555&icon=linkedin.svg&icon_color=%23E7E7E7&title=LinkedIn+Visitors&edge_flat=false" alt="LinkedIn Views"/>
 </p>
