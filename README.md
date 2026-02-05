@@ -83,10 +83,9 @@
   Predicts IPL match outcomes using historical and real-time features.
 
 ---
-
-### 📊 GitHub Stats  
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gauravmangate27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" height="180"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Gauravmangate27&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
