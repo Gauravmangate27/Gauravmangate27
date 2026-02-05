@@ -11,8 +11,11 @@
 
 ### 🌟 About Me  
 - 🎓 B.Tech in **Computer Science (AI & ML)** @ DBATU  
-- 🚀 Passionate about **Deep Learning, NLP, and Cloud AI** - ☁️ Skilled in **Google Cloud, AWS (including AWS Bedrock)** - 🕵️‍♂️ Exploring **Web Scraping, Generative AI, and Data Science Applications** - ⚡ Always building projects that solve real-world problems
-  
+- 🚀 Passionate about **Deep Learning, NLP, and Cloud AI**  
+- ☁️ Skilled in **Google Cloud, AWS (including AWS Bedrock)**  
+- 🕵️‍♂️ Exploring **Web Scraping, Generative AI, and Data Science Applications**  
+- ⚡ Always building projects that solve real-world problems  
+
 ---
 
 ### 🧠 AI/ML Domain Expertise (Out of 10)
@@ -38,8 +41,8 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src ="https://img.shields.io/badge/N8N-FF6F00?style=for-the-badge&logo=N8NlogoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/n8n-FF6F00?style=for-the-badge&logo=n8n&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -53,29 +56,38 @@
 ---
 
 ### 📌 Featured Projects  
-🚀 Here are some of my impactful projects:  
--  🤖 **[SmartChain_Orchestrator](https://github.com/Gauravmangate27/SmartChain_Orchestrator)** Automatically fetches emails every 1 minute 📎 Reads CSV attachments 🧹 Parses, cleans, and validates the data 📦 Saves it to PostgreSQL (Supabase) 🧠 Uses Quadratic AI to generate insights from the data with natural language prompts 📧 Sends out automated insight reports via email — every minute!
+🚀 Here are some of my impactful projects:
 
-- 🥔 **[Potato Disease Classification](https://github.com/Gauravmangate27/Potato-disease-classification)** Deep learning app to classify potato leaf diseases using CNN.  
+- 🤖 **[SmartChain_Orchestrator](https://github.com/Gauravmangate27/SmartChain_Orchestrator)**  
+  Automatically fetches emails every minute, processes CSVs, stores data in PostgreSQL (Supabase), generates AI insights, and sends automated reports.
 
-- 🤖 **[AI-Powered Scraper Bot](https://github.com/Gauravmangate27/AI-Powered-Scraper-Bot)** An intelligent web scraping system that integrates **LLMs (GPT, AWS Bedrock)** to transform raw, unstructured content into clean and structured insights.  
+- 🥔 **[Potato Disease Classification](https://github.com/Gauravmangate27/Potato-disease-classification)**  
+  CNN-based deep learning app for potato leaf disease detection.
 
-- ✂️ **[Text Summarization](https://github.com/Gauravmangate27/Text_Summarization)** NLP project that generates concise summaries from long documents using **extractive & abstractive methods**.  
+- 🤖 **[AI-Powered Scraper Bot](https://github.com/Gauravmangate27/AI-Powered-Scraper-Bot)**  
+  LLM-powered scraper using GPT & AWS Bedrock for structured insights.
 
-- 🧠 **[Brain Tumor Detection](https://github.com/Gauravmangate27/Brain_tumor_Detection)** Detects and classifies tumors in MRI scans using CNN / ResNet.  
+- ✂️ **[Text Summarization](https://github.com/Gauravmangate27/Text_Summarization)**  
+  Extractive & abstractive NLP-based document summarization.
 
-- 💰 **[Bitcoin Price Prediction](https://github.com/Gauravmangate27/BitCoin-Price-Prediction)** Predicts Bitcoin price trends using ML on OHLCV data.  
+- 🧠 **[Brain Tumor Detection](https://github.com/Gauravmangate27/Brain_tumor_Detection)**  
+  MRI-based tumor classification using CNN / ResNet.
 
-- 🩺 **[Medical Chatbot](https://github.com/Gauravmangate27/Medical_ChatBot)** RAG-based chatbot using **LangChain + Pinecone** with PDF ingestion.  
+- 💰 **[Bitcoin Price Prediction](https://github.com/Gauravmangate27/BitCoin-Price-Prediction)**  
+  ML-based prediction on OHLCV data.
 
-- 📊 **[IPL Win Probability Prediction](https://github.com/Gauravmangate27/IPL_Win_Probability_Prediction)** Predicts IPL match outcomes using historical + real-time features.  
+- 🩺 **[Medical Chatbot](https://github.com/Gauravmangate27/Medical_ChatBot)**  
+  RAG-based chatbot using LangChain + Pinecone.
+
+- 📊 **[IPL Win Probability Prediction](https://github.com/Gauravmangate27/IPL_Win_Probability_Prediction)**  
+  Predicts IPL match outcomes using historical and real-time features.
 
 ---
 
 ### 📊 GitHub Stats  
 <p align="center">
-[  <img src="https://github-readme-stats.vercel.app/api?username=Gauravmangate27&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gauravmangate27&theme=tokyonight" height="180"/>](https://github-readme-stats.vercel.app/api?username=Gauravmangate27&show_icons=true&theme=tokyonight&cache_seconds=1800)
+  <img src="https://github-readme-stats.vercel.app/api?username=Gauravmangate27&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=Gauravmangate27&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -89,8 +101,13 @@
 
 ### 📫 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/gauravmangate/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:gauravmangate27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Gauravmangate27"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gauravmangate/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:gauravmangate27@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Gauravmangate27">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
-
