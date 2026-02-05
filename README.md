@@ -88,14 +88,16 @@
 </p>
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=00FFAA&center=true&vCenter=true&width=650&lines=🧿+Buri+nazar+wale+tera+muu+kala;Too+many+commits+to+handle+🔥;Visitor+detected...+judge+silently+👀" />
+</p>
+-----
+
 ### ✨ Fun Animations  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F75C7E&center=true&vCenter=true&width=600&lines=AI+%26+ML+Developer;Deep+Learning+Practitioner;Cloud+%7C+Web+Dev+Enthusiast;Always+Learning+New+Things"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=00FFAA&center=true&vCenter=true&width=650&lines=🧿+Buri+nazar+wale+tera+muu+kala;Too+many+commits+to+handle+🔥;Visitor+detected...+judge+silently+👀" />
-</p>
 
 ### 📫 Connect with Me  
 <p align="center">
