@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Gaurav Mangate</h1>
   <h4>
-    <a href="https://gauravmangate27.github.io/portfolio-/">
+    <a href="https://gauravmangate.netlify.app/">
       https://gauravmangate27.github.io/portfolio-/
     </a>
   </h4>
