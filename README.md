@@ -2,7 +2,7 @@
   <h1>Gaurav Mangate</h1>
   <h4>
     <a href="https://gauravmangate.netlify.app/">
-      https://gauravmangate27.github.io/portfolio-/
+      https://gauravmangate.netlify.app/
     </a>
   </h4>
 
